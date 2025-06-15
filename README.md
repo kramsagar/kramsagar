@@ -29,34 +29,30 @@
 
 ## 📘 Featured Projects
 
-### 🔧 Ansible for Windows & Linux
-Automated file copy with permissions using Ansible across platforms:
-- ✅ Linux: Uses `owner`, `group`, `mode`
-- 🪟 Windows: Uses `win_acl` and `win_copy`
+### ⚙️ [AnomalyAndForecastingEngineLLM](https://github.com/kramsagar/AnomalyAndForecastingEngineLLM)
+🔍 AI-powered engine for real-time anomaly detection and forecasting using LLMs — built to augment SRE observability pipelines with predictive insights.
 
-[🔗 View Repository](https://github.com/<your-username>/ansible-cross-platform)
+### 🖥️ [AnomalyForecast_webUI](https://github.com/kramsagar/AnomalyForecast_webUI)
+🌐 Web-based UI built in Flask that interacts with your forecasting engine. Delivers time series predictions and anomaly charts to users in a sleek interface.
 
----
+### 🌐 [workeasehub.github.io](https://github.com/kramsagar/workeasehub.github.io)
+🧑‍💼 Personal/organizational GitHub Pages site — a hub for publishing your innovations, documentation, and platform solutions. Great for productizing your ideas.
 
-## 📚 Recent Learnings & Notes
+### 🛠️ [ansible-roles](https://github.com/kramsagar/ansible-roles)
+📦 Production-ready Ansible roles for modular automation: includes Windows + Linux support, service management, copy operations, and ACL setups — reusable across enterprise infrastructure.
 
-- 🔸 [Ansible Fact Gathering Flow](#)
-- 🔸 [Play vs Task vs Host Execution Flow](#)
-- 🔸 [Secure Secrets in Windows with Ansible](#)
-- 🔸 [Dynamic Inventory for VMs & EC2](#)
+### ⭐ [SRE-sample-portfolio](https://github.com/kramsagar/SRE-sample-portfolio)
+🧰 Fully documented SRE portfolio — includes IaC, observability examples, runbooks, and design patterns to showcase your operational excellence.
 
-📌 *Visit the repositories or pinned gists for deep dives and reusable playbooks.*
+### 🛠️ [ansible](https://github.com/kramsagar/ansible)
+Curated Ansible playbooks & roles, including cross-platform file copy (Linux & Windows ACL), service automation, and best-practice modular design.
 
----
+### 🐳 [docker](https://github.com/kramsagar/docker)
+Ready-to-use Docker configurations for streamlined CI/CD workflows and consistent development environments.
 
-## 🛠️ GitHub Stats
+### 📘 [kubernetes‑CKA](https://github.com/kramsagar/kubernetes-CKA)
+Enhanced learning repo with Kubernetes CKA labs and study guides, demonstrating cloud-native infrastructure expertise.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
