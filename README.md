@@ -56,7 +56,7 @@ Enhanced learning repo with Kubernetes CKA labs and study guides, demonstrating 
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ramsagar-kyasan44)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramsagar-kyasan44)
 [📫 Email Me](mailto:ramsagar.kyasan@gmail.com)
 
 ---
