@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ramsagar!</h1>
+<p align="center">
+  💻 DevOps | 🛠️ SRE | ⚙️ Automation Engineer | ☁️ Cloud Enthusiast  
+</p>
 
-<!--
-**kramsagar/kramsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 15+ years of experience in **Site Reliability Engineering (SRE)** and **DevOps**  
+🔹 Expert in **Ansible**, **Terraform**, **Docker**, **Kubernetes**, and **Observability Tools**  
+🔹 Passionate about building **Autonomous SRE Platforms** and AI-driven automation  
+🔹 Cross-platform automation specialist (Linux & Windows)
+
+---
+
+## 🧰 Tech Stack
+
+| Domain        | Tools & Skills |
+|---------------|----------------|
+| **Automation** | Ansible, Jenkins, GitHub Actions, Shell, PowerShell |
+| **Cloud**      | AWS, Azure, GCP |
+| **Containers** | Docker, Podman, Kubernetes, OpenShift |
+| **Monitoring** | Grafana, Prometheus, Splunk, AppDynamics, Dynatrace |
+| **Infra as Code** | Terraform, CloudFormation |
+| **Languages** | Python, Bash, YAML, JSON, Java (J2EE) |
+
+---
+
+## 📘 Featured Projects
+
+### 🔧 Ansible for Windows & Linux
+Automated file copy with permissions using Ansible across platforms:
+- ✅ Linux: Uses `owner`, `group`, `mode`
+- 🪟 Windows: Uses `win_acl` and `win_copy`
+
+[🔗 View Repository](https://github.com/<your-username>/ansible-cross-platform)
+
+---
+
+## 📚 Recent Learnings & Notes
+
+- 🔸 [Ansible Fact Gathering Flow](#)
+- 🔸 [Play vs Task vs Host Execution Flow](#)
+- 🔸 [Secure Secrets in Windows with Ansible](#)
+- 🔸 [Dynamic Inventory for VMs & EC2](#)
+
+📌 *Visit the repositories or pinned gists for deep dives and reusable playbooks.*
+
+---
+
+## 🛠️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ramsagar-kyasan44)  
+[📫 Email Me](mailto:ramsagar.kyasan@gmail.com)
+
+---
+
+> "Automate Everything. Observe Intelligently. Recover Automatically."  
+> — *Ramsagar Kyasan*
